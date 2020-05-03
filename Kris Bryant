@@ -1,6 +1,8 @@
 Index.html
 <html>
  <body>  <h1>Kris Bryant</h1>
-   	<p>Kris Bryant is the third baseman for the Chicago Cubs..</p>
+   	<p> <b>Kris Bryant</b> is the third baseman for the <u>Chicago Cubs.</u> 
+    <p><a href="https://www.baseball-reference.com/register/player.fcgi?id=bryant001kri">CLick here for his career stats.</a></p>
+.</p>
  </body>
 </html>
