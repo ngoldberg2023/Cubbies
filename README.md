@@ -1,2 +1,2 @@
 # cubbies
-For my STEAM project
+Information about the Chicago Cubs
